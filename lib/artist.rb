@@ -6,3 +6,5 @@ class Artist
     @artist = artist
   end
 end
+
+jean = Artist.new("Jean-Kenel", "Player")
