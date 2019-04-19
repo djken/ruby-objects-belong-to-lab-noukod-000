@@ -7,4 +7,4 @@ class Artist
   end
 end
 
-jean = Artist.new("Jean-Kenel", "Player")
+artist = Artist.new("Jean-Kenel", "Player")
